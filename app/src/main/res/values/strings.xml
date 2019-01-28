@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Food</string>
+    <string name="price_text">%1$s HRK</string>
+    <string name="food_text">Food name: %1$s</string>
+    <string name="side_order_text">Side order: %1$s</string>
+</resources>
